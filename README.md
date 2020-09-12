@@ -1,2 +1,3 @@
-# LWC
-This repository will have code base for LWC learning
+Hello,
+
+Here we will be learning about salesforce LWC alongwith deployment stratgey.
